@@ -1,6 +1,8 @@
 import boto3
 
 
+i think guguru is cool mr boto3
+
 client = boto3.client('guguru')
 
 
