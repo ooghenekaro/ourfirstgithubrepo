@@ -1,2 +1,3 @@
 uselessfile.py
-secrets.txt
+*.txt
+
